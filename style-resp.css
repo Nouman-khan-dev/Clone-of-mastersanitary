@@ -1,0 +1,9 @@
+@media (max-width:825px) {
+    .second-items {
+        width: 492px;
+    }
+    .pic {
+       
+        height: 240px;
+    }
+}
